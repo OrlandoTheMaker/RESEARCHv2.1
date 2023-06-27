@@ -6,7 +6,7 @@ after clonning type 'bash install.sh' for easy setup.
 apt update && apt upgrade -y <br/>
 pkg install python3 -y <br/>
 pkg install git <br/>
-git clone https://github.com/OrlandoTheMaker/RESEARCHv1.1.git <br/>
+git clone https://github.com/OrlandoTheMaker/RESEARCHv1.1 <br/>
 pip3 install -r requirements.txt <br/>
 python research.py
 <br/>
