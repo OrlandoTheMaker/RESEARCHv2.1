@@ -1,4 +1,4 @@
-
+after clonning type 'bash install.sh' for easy setup.
 
 <h1><u>###  RESEARCH ###</u></h1>
 <br/>
