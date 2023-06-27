@@ -1,24 +1,4 @@
-<style>
 
-h1 {
-text-align:center;
-color:blue;
-}
-
-h3 {
-text-align:center;
-color:blue;
-}
-
-p {
-text-align:center;
-}
-
-h2 {
-text-align:center;
-}
-
-</style>
 
 <h1><u>###  RESEARCH ###</u></h1>
 <br/>
