@@ -2,6 +2,13 @@
 
 <h1><u>###  RESEARCH ###</u></h1>
 <br/>
+<h1><u>###  INSTALLATION ###</u></h1>
+apt update && apt upgrade -y <br/>
+pkg install python3 -y <br/>
+pkg install git <br/>
+git clone https://github.com/OrlandoTheMaker/RESEARCHv1.1.git <br/>
+python research.py
+<br/>
 <h1 style="color:red"><u>DISCLAIMER!!</u></h1>
 <p style="color:red"> This Is Olny For Educational Purposes ONLY!!</p>
 <br/>
