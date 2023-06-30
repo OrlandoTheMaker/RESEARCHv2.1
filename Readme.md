@@ -1,4 +1,3 @@
-after clonning type 'bash install.sh' for easy setup.
 
 <h1><u>###  RESEARCH ###</u></h1>
 <br/>
@@ -9,7 +8,7 @@ pkg install git <br/>
 git clone https://github.com/OrlandoTheMaker/RESEARCHv1.1 <br/>
 chmod +x install.sh <br/>
 pip3 install -r requirements.txt <br/>
-python research.py
+bash install.sh
 <br/>
 <h1 style="color:red"><u>DISCLAIMER!!</u></h1>
 <p style="color:red"> This Is Olny For Educational Purposes ONLY!!</p>
