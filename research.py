@@ -52,8 +52,10 @@ text_banner()
 menu = {1: 'SCRAPE ALL LINKS ON A SITE',
            2: 'SCRAPE ALL EMAILS FROM WEBPAGE',
         3: 'EXTRACT DUPLICATE EMAILS FROM A FILE',
-        4: 'RESTART THE TOOL',
-        5: 'QUIT'
+        4: 'SCAN OPEN PORTS',
+        5: 'GET OPERATING SYSTEM DETAILS',
+        6: 'RESTART THE TOOL',
+        7: 'QUIT'
         }
 
 
@@ -93,9 +95,23 @@ elif enter == 4:
     time.sleep(3)
     os.system('clear')
     os.system('cls')
+    os.system('python omap.py')
+    
+elif enter == 5:
+    print(info + 'Please wait . . .')
+    time.sleep(3)
+    os.system('clear')
+    os.system('cls')
+    os.system('python os_details.py')
+
+elif enter == 6:
+    print(info + 'Please wait . . .')
+    time.sleep(3)
+    os.system('clear')
+    os.system('cls')
     os.system('python research.py')
 
-elif enter == 5:
+elif enter == 7:
     print(info + 'Please wait . . .')
     time.sleep(3)
     os.system('clear')
@@ -104,4 +120,3 @@ elif enter == 5:
     text_banner()
     print('\nGOOD BYE AND DO NOT FORGET TO FOLLOW ME ON GITHUB ')
     sys.exit()
-
