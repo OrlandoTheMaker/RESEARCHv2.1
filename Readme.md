@@ -6,8 +6,8 @@ apt update && apt upgrade -y <br/>
 pkg install python3 -y <br/>
 pkg install git <br/>
 git clone https://github.com/OrlandoTheMaker/RESEARCHv1.1 <br/>
-chmod +x install.sh <br/>
 pip3 install -r requirements.txt <br/>
+chmod +x install.sh <br/>
 bash install.sh
 <br/>
 <h1 style="color:red"><u>DISCLAIMER!!</u></h1>
