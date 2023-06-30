@@ -67,6 +67,22 @@ and acurate data.</p>
 </li>
 
 <li>
+PORT_SCANNING : <p style="color:green"> Research has an in built feature that helps-<br/>
+the user in identifying multiple open ports-<br/>
+on a website(port 21-443). A tolal of425 ports. -<br/>
+</p>
+</li>
+
+<li>
+OS_DETECTION : <p style="color:green"> Research has an in built feature that helps-<br/>
+the user in identifying the operating system of a website-<br/>
+running on specifically port 80. It utilizes the nmap-<br/>
+port scanner for this to work. No need to worry as<br/>
+it automatically installs all requirements for thr tool to run properly.</p>
+</li>
+
+
+<li>
 STORAGE : <p style="color:green"> Research takes each discovered data and -<br/>
 saves the in a file for further processing_<br/>
 if needed by the user.</p>
